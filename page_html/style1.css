@@ -1,0 +1,123 @@
+nav{
+    margin: auto;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+nav a{
+    width: 150px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-style: italic;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+*{
+    margin: 0px;
+}
+#a{
+    border-radius: 50%;
+}
+#menu_actuel{
+    background-color: rgba(255,255, 255, 0.2);
+}
+body{
+    background-image:url(tOp9HJ.webp) ;
+}
+main{
+    margin: auto;
+    width: 1000px;
+    margin-top: 20%;
+}
+h2{
+    color: red;
+}
+.compet{
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
+#comp1{
+    margin-bottom: 40px;
+}
+.passion img{
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.passion p{
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 35%;
+
+}
+section{
+    width: 1000px;
+    margin-left: 40px;
+}
+fieldset{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    border: 1px solid rgba(255,255, 255, 0.3);
+    background: rgba(255,255, 255, 0.2);
+    border-radius: 16px ;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.ll{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 200px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+input[type=text]{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border-style:none ;
+}
+textarea{
+    width: 200px;
+    height: 70px;
+    border-radius: 15px;
+    border-style:none ;
+}
+.img_par{
+    margin-left: 300px;
+    border:10px white;
+    box-shadow:5px 10px 5px black;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+td{
+    padding-right: 70px;
+}
+h1{
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.bouton{
+    margin-top: 30px;
+    margin-right: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    font-size: medium;
+}
